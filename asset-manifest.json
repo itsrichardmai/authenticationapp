@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/authenticationapp/static/js/main.11692b52.chunk.js",
-    "main.js.map": "/authenticationapp/static/js/main.11692b52.chunk.js.map",
-    "runtime-main.js": "/authenticationapp/static/js/runtime-main.c0bc3dcc.js",
-    "runtime-main.js.map": "/authenticationapp/static/js/runtime-main.c0bc3dcc.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/authenticationapp/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.1db1d17c.chunk.js": "/authenticationapp/static/js/2.1db1d17c.chunk.js",
-    "static/js/2.1db1d17c.chunk.js.map": "/authenticationapp/static/js/2.1db1d17c.chunk.js.map",
-    "index.html": "/authenticationapp/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/authenticationapp/static/css/2.20aa2d7b.chunk.css.map",
-    "static/js/2.1db1d17c.chunk.js.LICENSE.txt": "/authenticationapp/static/js/2.1db1d17c.chunk.js.LICENSE.txt"
+    "main.js": "/authenticationapp/signup/static/js/main.49b41b0b.chunk.js",
+    "main.js.map": "/authenticationapp/signup/static/js/main.49b41b0b.chunk.js.map",
+    "runtime-main.js": "/authenticationapp/signup/static/js/runtime-main.61e9b7bf.js",
+    "runtime-main.js.map": "/authenticationapp/signup/static/js/runtime-main.61e9b7bf.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/authenticationapp/signup/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1db1d17c.chunk.js": "/authenticationapp/signup/static/js/2.1db1d17c.chunk.js",
+    "static/js/2.1db1d17c.chunk.js.map": "/authenticationapp/signup/static/js/2.1db1d17c.chunk.js.map",
+    "index.html": "/authenticationapp/signup/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/authenticationapp/signup/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.1db1d17c.chunk.js.LICENSE.txt": "/authenticationapp/signup/static/js/2.1db1d17c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0bc3dcc.js",
+    "static/js/runtime-main.61e9b7bf.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.1db1d17c.chunk.js",
-    "static/js/main.11692b52.chunk.js"
+    "static/js/main.49b41b0b.chunk.js"
   ]
 }
