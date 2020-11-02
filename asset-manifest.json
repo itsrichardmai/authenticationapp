@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/authenticationapp/static/js/main.de2a9d4b.chunk.js",
-    "main.js.map": "/authenticationapp/static/js/main.de2a9d4b.chunk.js.map",
+    "main.js": "/authenticationapp/static/js/main.73f4ac7a.chunk.js",
+    "main.js.map": "/authenticationapp/static/js/main.73f4ac7a.chunk.js.map",
     "runtime-main.js": "/authenticationapp/static/js/runtime-main.c0bc3dcc.js",
     "runtime-main.js.map": "/authenticationapp/static/js/runtime-main.c0bc3dcc.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/authenticationapp/static/css/2.20aa2d7b.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c0bc3dcc.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.1db1d17c.chunk.js",
-    "static/js/main.de2a9d4b.chunk.js"
+    "static/js/main.73f4ac7a.chunk.js"
   ]
 }
